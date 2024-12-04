@@ -12,11 +12,13 @@ dado1 = input("Digite o primeiro dado: ")
 
 dado2 = input("Digite o segundo dado: ")
 
+print("\n")
+
 \# Execução do código
 
-nome_completo = dado1 + " " + dado2
+nome_completo = dado1 + " " + dado2 
 
-print(nome_completo)  
+print(nome_completo) 
 
 
 
@@ -32,11 +34,15 @@ dado = input ("Digite a palavra: ")
 
 i = 0
 
+print("\n")
+
 \# Execução do código
 
 for i in range (0, num):
 
 print (dado) 
+
+   
 
 
 
@@ -49,6 +55,8 @@ print (dado)
 num1 = int(input("Digite o primeiro número: "))
 
 num2 = int(input("Digite o segundo número: "))
+
+print("\n")
 
 \# Execução do código
 
